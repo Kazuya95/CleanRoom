@@ -1,0 +1,11 @@
+Fase 1: Geral
+( ) organizacao por tempo de modificacao
+( ) gerar relatorio do que foi transferido (transferir os dados que são exibidos para um JSON ou csv com nome do arquivo, local de origem e destino, horário da transferência)
+( ) Exibicao na propria GUI das informações (frame de exibição com regulagem de altura)
+( ) Acréscimo de novas classificações e extensões
+
+Fase 2
+( ) Pesquisa d formatos desconhecidos em site (de preferência com urls editáveis)
+
+Fase 3
+( ) Tornar um executável
