@@ -1,10 +1,4 @@
-'''
-Fase 1: Geral
-( ) organizacao por tempo de modificacao
-( ) gerar relatorio do que foi transferido
-( ) Exibicao na propria GUI
-'''
-
+# organiza os arquivos em pastas de acordo com a extensao
 import os
 from tkinter import *
 from tkinter.filedialog import *
